@@ -1,0 +1,19 @@
+.header img {
+    display: block;
+    width: 80%;
+	min-width: 100px;
+    height: auto;
+    margin: auto;
+    border-radius: 48% / 25%;
+    box-shadow: 5px 5px 10px black;   
+}
+
+a {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.header a img {
+	box-shadow: none;
+	width: 20%;
+}
